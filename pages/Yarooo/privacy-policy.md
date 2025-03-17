@@ -48,15 +48,21 @@
 - 8.2 Data Collection: Yarooo collects user data as per the Privacy Policy. Data usage complies with regulations (e.g., GDPR, CCPA) and is required to provide affiliate tracking and cashback features.
 - 8.3 User Responsibility for Taxes: Users are responsible for declaring and paying applicable taxes on any earnings through Yarooo.
 
-### **9\. Final Provisions**
+### **9\. Location Policy**
 
-- 9.1 Account Termination: Yarooo reserves the right to suspend or terminate accounts for violating these Terms, engaging in fraudulent activities, or misuse.
-- 9.2 Future Conditions: If errors or issues are identified on Yarooo’s part, the company is not liable for direct or indirect losses but will correct the error when possible.
-- 9.3 Changes to Terms: Yarooo may update Terms and Conditions as the platform evolves, with users notified of significant changes.
-- 9.4 Governing Law: These Terms are governed by the laws of \[Your Jurisdiction/Country\].
+- 9.1 Location Data Collection: Yarooo collects location information to provide personalized offers, track eligible cashback transactions, and enhance user experience.
+- 9.2 Purpose of Location Data: This data is used to display location-based deals, verify transactions with offline vendors, and improve the accuracy of cashback tracking.
+- 9.3 User Control: Users can manage location-sharing preferences in the app settings. However, disabling location services may limit access to location-based offers and certain cashback features.
+- 9.4 Data Protection: Yarooo ensures that location data is processed securely and complies with applicable data privacy laws. Location data is not shared with third parties beyond what is necessary to provide cashback and personalized offers.
 
-### **10\. Contact Information**
+### **10\. Final Provisions**
 
-- 10.1 For questions, issues, or concerns, users may contact Yarooo support at:
+- 10.1 Account Termination: Yarooo reserves the right to suspend or terminate accounts for violating these Terms, engaging in fraudulent activities, or misuse.
+- 10.2 Future Conditions: If errors or issues are identified on Yarooo’s part, the company is not liable for direct or indirect losses but will correct the error when possible.
+- 10.3 Changes to Terms: Yarooo may update Terms and Conditions as the platform evolves, with users notified of significant changes.
+
+### **11\. Contact Information**
+
+- 11.1 For questions, issues, or concerns, users may contact Yarooo support at:
   - Mobile : +91 9642 876 876
   - Email : <support@yarooo.com>
